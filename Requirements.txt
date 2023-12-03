@@ -1,0 +1,9 @@
+streamlit
+predictive_model
+pandas
+numpy
+sklearn
+sklearn.model_selection
+imblearn.over_sampling
+sklearn.ensemble
+warnings
