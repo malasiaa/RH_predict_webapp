@@ -2,7 +2,7 @@ streamlit
 predictive_model
 pandas
 numpy
-sklearn
+scikit-learn
 sklearn.model_selection
 imblearn.over_sampling
 sklearn.ensemble
