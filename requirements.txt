@@ -3,7 +3,4 @@ imblearn
 pandas
 numpy
 scikit-learn
-sklearn.model_selection
-imblearn.over_sampling
-sklearn.ensemble
 warnings
